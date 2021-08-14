@@ -8,7 +8,9 @@
  #catering{width:100%;background:url(../images/chef-lg.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover}
  #stay{width:100%;background:url(../images/infinity-marina.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover}
  
- .media{text-transform:capitalize}.rounded{-webkit-border-radius:400px;-moz-border-radius:400px;border-radius:400px}
+ .media{text-transform:capitalize}
+ .media h5.media-heading {font-weight:400;}
+ .rounded{-webkit-border-radius:400px;-moz-border-radius:400px;border-radius:400px}
  
  @media(max-width:768px){#aircharter,#limo,#about3{text-align:center}}
  
